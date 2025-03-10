@@ -28,4 +28,4 @@ ipHV (Arbitrum)  > https://arbiscan.io/address/0x3b46d8B6Ff09Bf1b7399ce6b3f2c704
     ██║██║     ██║  ██║╚██████╔╝   
     ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝  
 
-If you have more complex questions, feel free to contact us at <contact@intelport.org>
+> If you have more complex questions, feel free to contact us at <contact@intelport.org>
