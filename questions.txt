@@ -1,0 +1,25 @@
+Expected Question?
+
+What happens after my time-lock is finished?
+-You can retrieve your ETH from the ipHV contract.
+-If you wish, you can lock your ETH again for another period.
+
+What happens after I time-lock my ETH? Can I still send ETH to the ipHV contract?
+Yes! One of the key benefits of saving your ETH with a time-lock on the ipHV contract is that you can continue adding more ETH even while your existing ETH remains locked.
+While your ETH is locked in the ipHV contract (e.g., for 1 year), you can continue sending more ETH to the ipHV contract—However, you must use the same personal ethereum wallet address that you originally used to send and time-lock your ETH to the ipHV contract.—Important Reminder: If you send ETH from a different wallet address, it will not be recognized as yours and will remain permanently locked in the ipHV contract, with no way to recover it!
+
+What happens if I send ETH before verifying my peronsal ethereum wallet address?
+No problem at all! You can verify your address later. There is no time limitation for verifying your address with the ipHV contract. The ipHV contract will always remember the wallet address that sent the ETH.
+
+What if I lose my wallet address? Can I recover my locked ETH?
+Unfortunately, no. Not even us—no one can recover your locked ETH. Only the wallet address that originally sent the ETH and set the time-lock on the ipHV contract has control over it.—So, it's a firm 'no' for recovering the ETH.
+
+What Happens if i mistakenly send My ERC-20 Tokens or ERC-721 NFT to the ipHV Contract?
+For ERC-20 tokens and ERC-721 NFTs, we "IPCSS" have the ability to recover them—but not your ETH!—We specifically designed the ipHV contract so that IPCSS can only recover ERC-20 tokens and ERC-721 NFTs, while ETH remains fully under the user’s control.—However, mistakes happen, and sometimes users accidentally send tokens to a contract. If you mistakenly send your ERC-20 tokens or an ERC-721 NFT to the ipHV contract, you can immediately contact us at <help@intelport.org> for recovery assistance.
+
+Why Is There No dApp for This?
+To ensure maximum security, we intentionally do not provide a dApp for interacting with the ipHV contract.
+By avoiding a front-end application, we eliminate risks associated with phishing sites, malicious dApps, or potential vulnerabilities in an interface. Instead, you interact directly with the ipHV contract, ensuring full transparency and control over your ETH.—Besides, the process is already simple to use, so a dApp isn't necessary for this.
+
+
+IPCSService charges a 2% fee on every ETH withdrawal from the ipHV contract — The funds are reserved for the Intel Port Reserve.

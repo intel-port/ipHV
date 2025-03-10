@@ -1,0 +1,23 @@
+Here's how you can time-lock your ETH!
+It may seem like a lot to read, but really, it’s simple!
+
+Verify the Network
+Always ensure you open ipHV contract from > https://intelport.org
+
+Send the ETH [Vital Notice!]
+
+ipHV is also available on multiple L2 Chains—Choose any network you prefer.
+Simply send your ETH directly to the ipHV contract from your main personal ethereum wallet address (EOA).
+Never send your ETH to the ipHV contract from a contract address or an exchange—otherwise, you will lose your ETH, and We cannot recover it.
+Why? Because to withdraw or time-lock your ETH, you must interact with the ipHV contract, and the ipHV contract only recognizes the original sender as the controller. If you send ETH from an exchange or a smart contract, you won’t have control over it. [Make sure to use a personal ethereum wallet address (EOA) for which you own the private key or recovery phrase. This ensures that you have full control over your ETH on the ipHV contract].
+
+Verify that this ETH belongs to you.
+
+The ipHV contract will always remember who sent ETH to it. Each wallet address is recorded without limitation, and every sender is marked as having the right to their own ETH on the ipHV contract.
+But before you can take any action on the ipHV contract, you must first verify your personal ethereum wallet address that sent ETH to the ipHV contract by running the [verADD] function.
+
+Time-Lock 
+
+
+When it comes to setting a time-lock, [setTL] > Set Time-Lock is the function you need. You must enter the duration in seconds (For example, if you want to set a time-lock for 1 minute, you must enter 60—since the time is measured in seconds). Once the time-lock is set, you will not be able to unlock or withdraw your ETH until the specified time has elapsed. The maximum lock period is 7 years. [Reminder: the only way to retrieve your ETH from the ipHV contract is by using the same personal ethereum wallet address that set the time-lock].
+Big Conclusion: Always remember to send your ETH to the ipHV contract from the same personal ethereum wallet address you used to set the time-lock or initially send ETH to the ipHV contract. [Your personal ethereum wallet address is the only way to retrieve your ETH from the ipHV contract].
