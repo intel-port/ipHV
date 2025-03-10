@@ -7,6 +7,8 @@ Intel Port Horo-Vault (ipHV) is a smart contract developed by Intel Port Contrac
 Is it secure? Yes, the secure element we use is simple. Your personal ethereum wallet address—the one that sends ETH to the ipHV contract—is the only key to your ETH on the ipHV contract, even before it gets locked. As long as you have access to your personal ethereum wallet address, your ETH remains secure. However, in another word: if you lose your personal ethereum wallet address, you lose access to your ETH on ipHV contract.
 We cannot help recover it in any way—there is no backdoor, no workaround. The security is absolute.
 
+ ———————————————————————————————— ipHV networks
+
 ipHV (Ethereum)  > https://etherscan.io/address/0x3b46d8B6Ff09Bf1b7399ce6b3f2c704979852205
 
 ipHV (Unichain)  > https://uniscan.xyz/address/0x3b46d8B6Ff09Bf1b7399ce6b3f2c704979852205
@@ -17,5 +19,13 @@ ipHV (Optimism)  > https://optimistic.etherscan.io/address/0x3b46d8B6Ff09Bf1b739
 
 ipHV (Arbitrum)  > https://arbiscan.io/address/0x3b46d8B6Ff09Bf1b7399ce6b3f2c704979852205
 
+ ————————————————————————————————
+
+    ██╗██████╗ ██╗  ██╗██╗   ██╗
+    ██║██╔══██╗██║  ██║██║   ██║
+    ██║██████╔╝███████║██║   ██║
+    ██║██╔═══╝ ██╔══██║██║   ██║
+    ██║██║     ██║  ██║╚██████╔╝   
+    ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝  
 
 If you have more complex questions, feel free to contact us at <contact@intelport.org>
