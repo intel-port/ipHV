@@ -1,4 +1,4 @@
-> Introducing ipHV > Intel Port Horo-Vault — Contract.—https://intelport.org/ipHV
+> Introducing ipHV > Intel Port Horo-Vault v8.3.2 — Contract.—https://intelport.org/ipHV
 
 Intel Port Horo-Vault (ipHV) is a smart contract developed by Intel Port Contract Security (IPCS) under the Intel Port Foundation—ipHV is designed to lock your ETH into the ipHV contract for a period of time of your choosing. The goal is to secure your ETH over time, making it useful for saving without disrupting your money management—especially when sudden expenses arise.
 
